@@ -21,7 +21,7 @@ Why we are gonna use redux:
   Lot of re-renders
 
 
-Redux:
+Redux: ( refer axios-formik repo for the redux Implementtation )
 
   Large Applications uses Redux to Manage the 
     State, Actions, Data as a whole
